@@ -1,4 +1,5 @@
 import List from './List';
+
 function App(){
 
     const fruits = [
@@ -25,6 +26,5 @@ function App(){
         </>
     );
 }
-
 export default App;
 
