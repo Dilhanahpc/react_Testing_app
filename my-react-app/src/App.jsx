@@ -3,7 +3,7 @@ function App(){
 
     const fruits = [
         { id: 1, name: "apple", calories: 52 },
-        { id: 2, name: "orange", calories: 47 },
+        { id: 2, name: "oranges", calories: 47 },
         { id: 3, name: "banana", calories: 89 },
         { id: 4, name: "kiwi", calories: 61 },
         { id: 5, name: "mango", calories: 50 }
