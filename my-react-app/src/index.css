@@ -1,0 +1,20 @@
+.increment {
+    background-color: lightblue;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.decrement {
+    background-color: lightcoral;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.counter {
+    font-size: 10em;
+    margin: 20px;
+    text-align: center;
+}
